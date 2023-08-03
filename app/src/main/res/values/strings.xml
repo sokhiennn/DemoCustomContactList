@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Custom Contact List</string>
+    <string name="code">Code</string>
+    <string name="number">Number</string>
+</resources>
